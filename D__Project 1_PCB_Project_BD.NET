@@ -1,0 +1,336 @@
+PARTS LIST
+
+10k               RES-SMD-0603    206
+4u7               CN-SMD-0603     C200
+100n              CN-SMD-0603     C201
+100n              CN-SMD-0603     C202
+100n              CN-SMD-0603     C203
+100n              CN-SMD-0603     C204
+100n              CN-SMD-0603     C205
+1u                CN-SMD-0603     C206
+100n              CN-SMD-0603     C207
+100n              CN-SMD-0603     C208
+100n              CN-SMD-0603     C209
+20p               CN-SMD-0603     C210
+20p               CN-SMD-0603     C211
+2u2               CN-SMD-0603     C212
+2u2               CN-SMD-0603     C213
+100n              CN-SMD-0603     C300A_MPPT_charger1
+100n              CN-SMD-0603     C300A_MPPT_charger2
+10u               CN-SMD-0603     C301A_MPPT_charger1
+10u               CN-SMD-0603     C301A_MPPT_charger2
+1u                CN-SMD-0603     C302A_MPPT_charger1
+1u                CN-SMD-0603     C302A_MPPT_charger2
+10p               CN-SMD-0603     C303A_MPPT_charger1
+10p               CN-SMD-0603     C303A_MPPT_charger2
+22u               CN-SMD-0603     C304A_MPPT_charger1
+22u               CN-SMD-0603     C304A_MPPT_charger2
+22u               CN-SMD-0603     C305A_MPPT_charger1
+22u               CN-SMD-0603     C305A_MPPT_charger2
+1u                CN-SMD-0603     C306A_MPPT_charger1
+1u                CN-SMD-0603     C306A_MPPT_charger2
+100n              CN-SMD-0603     C400A_Ideal Diode1
+100n              CN-SMD-0603     C400A_Ideal Diode2
+22u               CAP_TANT_0603   C401A_Ideal Diode1
+22u               CAP_TANT_0603   C401A_Ideal Diode2
+10u               CN-SMD-0603     C500A
+10u               CN-SMD-0603     C500B
+10u               CN-SMD-0603     C501A
+10u               CN-SMD-0603     C501B
+22u               CN-SMD-0603     C502A
+22u               CN-SMD-0603     C502B
+22u               CN-SMD-0603     C503A
+22u               CN-SMD-0603     C503B
+22u               CN-SMD-0603     C504A
+22u               CN-SMD-0603     C504B
+100n              CN-SMD-0603     C505A
+100n              CN-SMD-0603     C505B
+LED               LED-0805-Green  D700
+LED               LED-0805-Green  D701
+LED               LED-0805-Green  D702
+XT30PW-M          AMASS_XT30PW-M  J300A_MPPT_charger1
+XT30PW-M          AMASS_XT30PW-M  J300A_MPPT_charger2
+XT30PW-M          AMASS_XT30PW-M  J301A_MPPT_charger1
+XT30PW-M          AMASS_XT30PW-M  J301A_MPPT_charger2
+RPI GPIO Connector + 4 Cubesat pinsheader 40 pins  J600
+S6B-XH-A-1(LF)(SN)FP-S6B-XH-A-1_LF_SN-MFGJ700
+4u7               L-SMD-0630      L200
+10u               L-SMD-M-7.3x4.5 L300A_MPPT_charger1
+10u               L-SMD-M-7.3x4.5 L300A_MPPT_charger2
+1u5               L-SMD-0630      L500A
+1u5               L-SMD-0630      L500B
+61201021721       61201021721     P200
+TPCA8120          Mosfet P channelQ400A_Ideal Diode1
+TPCA8120          Mosfet P channelQ400A_Ideal Diode2
+AO3400            SOT23-123       Q700
+AO3400            SOT23-123       Q701
+10k               RES-SMD-0603    R200
+10k               RES-SMD-0603    R201
+33k               RES-SMD-0603    R202
+33k               RES-SMD-0603    R203
+10k               RES-SMD-0603    R204
+10k               RES-SMD-0603    R205
+100R              RES-SMD-0603    R207
+100R              RES-SMD-0603    R208
+100R              RES-SMD-0603    R209
+10k               RES-SMD-0603    R210
+0.025R            RES-SMD-0603    R300A_MPPT_charger1
+0.025R            RES-SMD-0603    R300A_MPPT_charger2
+300k              RES-SMD-0603    R301A_MPPT_charger1
+300k              RES-SMD-0603    R301A_MPPT_charger2
+10k               RES-SMD-0603    R302A_MPPT_charger1
+10k               RES-SMD-0603    R302A_MPPT_charger2
+1M                RES-SMD-0603    R303A_MPPT_charger1
+1M                RES-SMD-0603    R303A_MPPT_charger2
+33k               RES-SMD-0603    R304A_MPPT_charger1
+33k               RES-SMD-0603    R304A_MPPT_charger2
+6k4               RES-SMD-0603    R305A_MPPT_charger1
+6k4               RES-SMD-0603    R305A_MPPT_charger2
+309k              RES-SMD-0603    R306A_MPPT_charger1
+309k              RES-SMD-0603    R306A_MPPT_charger2
+10k               RES-SMD-0603    R500A
+10k               RES-SMD-0603    R500B
+1M                RES-SMD-0603    R501A
+1M                RES-SMD-0603    R501B
+10k               RES-SMD-0603    R502A
+10k               RES-SMD-0603    R502B
+180k/110k         RES-SMD-0603    R503A
+180k/110k         RES-SMD-0603    R503B
+100R              RES-SMD-0603    R700
+10k               RES-SMD-0603    R701
+100R              RES-SMD-0603    R702
+10k               RES-SMD-0603    R703
+1k                RES-SMD-0603    R704
+1k                RES-SMD-0603    R705
+2k2               RES-SMD-0603    R706
+EVQ-PF006K        FP-EVQ-PF006K-MFGSW200
+EVQ-PF006K        FP-EVQ-PF006K-MFGSW201
+EVQ-PF006K        FP-EVQ-PF006K-MFGSW202
+Test-Point        TESTPOINT       TP300A_MPPT_charger1
+Test-Point        TESTPOINT       TP300A_MPPT_charger2
+Test-Point        TESTPOINT       TP700
+Test-Point        TESTPOINT       TP701
+STM32F405RGT6     STM-LQFP64_M    U200
+LT8611EUDD#TRPBF  FP-UDD-24-05-08-1833-IPC_BU300A_MPPT_charger1
+LT8611EUDD#TRPBF  FP-UDD-24-05-08-1833-IPC_BU300A_MPPT_charger2
+LTC4412ES6#TRMPBF FP-S6-6-05-08-1636-IPC_CU400A_Ideal Diode1
+LTC4412ES6#TRMPBF FP-S6-6-05-08-1636-IPC_CU400A_Ideal Diode2
+TPS63020DSJT      FP-DSJ0014A-MFG U500A
+TPS63020DSJT      FP-DSJ0014A-MFG U500B
+8MHz              FP-ABM3B-MFG    Y200
+EOS
+NET LIST
+
+NODENAME VINA_TPS_B       $
+    C505B      2  R500B      1  R502B      1  U500B      1
+NODENAME VINA_TPS_A       $
+    C505A      2  R500A      1  R502A      1  U500A      1
+NODENAME VCAP-2           $
+  
+NODENAME VCAP-1           $
+    C213       2  U200      31
+NODENAME VBUS             $
+    C401A_Ideal Diode1A  C401A_Ideal Diode2A  C500A      2  C500B      2  C501A      2  C501B      2  J700       2  J700       4  Q400A_Ideal Diode11,2,3  Q400A_Ideal Diode21,2,3  U400A_Ideal Diode16  U400A_Ideal Diode26  U500A     10  U500A     11  U500B     10  U500B     11
+NODENAME VBAT2_DIV        $
+    R201       2  R203       1  U200      16
+NODENAME VBAT1_DIV        $
+    R200       2  R202       1  U200      15
+NODENAME USER_LED         $
+    D700       1  U200      54
+NODENAME USER_BUTTON 1    $
+    U200       3
+NODENAME USER_BUTTON 0    $
+    U200       2
+NODENAME TR/SS_A_MPPT_charger2$
+    R301A_MPPT_charger21  R304A_MPPT_charger22  U300A_MPPT_charger22
+NODENAME TR/SS_A_MPPT_charger1$
+    R301A_MPPT_charger11  R304A_MPPT_charger12  U300A_MPPT_charger12
+NODENAME SYNC_CHRGR       $
+  
+NODENAME SWDIO            $
+    P200       4  U200      46
+NODENAME SWCLK            $
+    P200       2  U200      49
+NODENAME SW_A_MPPT_charger2$
+    C300A_MPPT_charger21  L300A_MPPT_charger21  U300A_MPPT_charger213  U300A_MPPT_charger214  U300A_MPPT_charger215
+NODENAME SW_A_MPPT_charger1$
+    C300A_MPPT_charger11  L300A_MPPT_charger11  U300A_MPPT_charger113  U300A_MPPT_charger114  U300A_MPPT_charger115
+NODENAME STAT_A_Ideal Diode2$
+    U400A_Ideal Diode24
+NODENAME STAT_A_Ideal Diode1$
+    U400A_Ideal Diode14
+NODENAME RT_A_MPPT_charger2$
+    R305A_MPPT_charger22  U300A_MPPT_charger23
+NODENAME RT_A_MPPT_charger1$
+    R305A_MPPT_charger12  U300A_MPPT_charger13
+NODENAME PW_sw-2          $
+    R702       2  R703       1  U200      34
+NODENAME PW_sw-1          $
+    R700       2  R701       1  U200      35
+NODENAME POWER_O2         $
+    J700       3  Q701       2
+NODENAME POWER_O1         $
+    J700       5  Q700       2
+NODENAME PG_3V3           $
+    U200      24  U500B     14
+NODENAME PG 5V            $
+    U200      27  U500A     14
+NODENAME PG2              $
+    U300A_MPPT_charger219
+NODENAME PG1              $
+    U300A_MPPT_charger119
+NODENAME PG               $
+    U200      58  U200      59
+NODENAME PC15             $
+    U200       4
+NODENAME PC12             $
+    U200      53
+NODENAME PC11             $
+    U200      52
+NODENAME PC10             $
+    U200      51
+NODENAME PC9              $
+    U200      40
+NODENAME PC8              $
+    U200      39
+NODENAME PC7              $
+    U200      38
+NODENAME PC6              $
+    U200      37
+NODENAME PC0              $
+    U200       8
+NODENAME PB15             $
+    U200      36
+NODENAME PB12             $
+    U200      33
+NODENAME PB9              $
+    U200      62
+NODENAME PB8              $
+    U200      61
+NODENAME PB5              $
+    U200      57
+NODENAME PB4              $
+    U200      56
+NODENAME PB3              $
+    U200      55
+NODENAME PB0              $
+    U200      26
+NODENAME PA15             $
+    U200      50
+NODENAME PA12             $
+    U200      45
+NODENAME PA11             $
+    U200      44
+NODENAME PA10             $
+    U200      43
+NODENAME PA9              $
+    U200      42
+NODENAME PA8              $
+    U200      41
+NODENAME PA7              $
+    U200      23
+NODENAME PA6              $
+    U200      22
+NODENAME PA5              $
+    U200      21
+NODENAME PA4              $
+    U200      20
+NODENAME PA3              $
+    U200      17
+NODENAME PA0              $
+    U200      14
+NODENAME OSC_OUT          $
+    C210       2  U200       6  Y200       1
+NODENAME OSC_IN           $
+    C211       2  U200       5  Y200       3
+NODENAME NRST_NDB         $
+    206        2  C207       2  C208       2  C209       2  R204       2  R205       2  R207       1  R208       1  R209       1
+NODENAME NRST             $
+    P200       1  R207       2  R208       2  R209       2  SW200      A  SW201      A  SW202      A  U200       7
+NODENAME NetR302A_MPPT_charger1-1$
+    R302A_MPPT_charger11  R302A_MPPT_charger21  U200      11  U300A_MPPT_charger11  U300A_MPPT_charger21
+NODENAME NetJ600-44       $
+    J600      44  U200      29
+NODENAME NetJ600-43       $
+    J600      43  U200      30
+NODENAME NetC212-2        $
+    C212       2  U200      47
+NODENAME MODE_5V          $
+    R500A      2  U200      28  U500A     13
+NODENAME MODE_3V3         $
+    R500B      2  U200      25  U500B     13
+NODENAME L2_B             $
+    L500B      1  U500B      6  U500B      7
+NODENAME L2_A             $
+    L500A      1  U500A      6  U500A      7
+NODENAME L1_B             $
+    L500B      2  U500B      8  U500B      9
+NODENAME L1_A             $
+    L500A      2  U500A      8  U500A      9
+NODENAME ISP_A_MPPT_charger2$
+    C302A_MPPT_charger21  L300A_MPPT_charger22  R300A_MPPT_charger22  U300A_MPPT_charger221
+NODENAME ISP_A_MPPT_charger1$
+    C302A_MPPT_charger11  L300A_MPPT_charger12  R300A_MPPT_charger12  U300A_MPPT_charger121
+NODENAME INTVcc_A_MPPT_charger2$
+    C306A_MPPT_charger22  R302A_MPPT_charger22  U300A_MPPT_charger217
+NODENAME INTVcc_A_MPPT_charger1$
+    C306A_MPPT_charger12  R302A_MPPT_charger12  U300A_MPPT_charger117
+NODENAME IMON2            $
+    U200      10  U300A_MPPT_charger223
+NODENAME IMON1            $
+    U200       9  U300A_MPPT_charger123
+NODENAME ICTRL_A_MPPT_charger2$
+    U300A_MPPT_charger224
+NODENAME ICTRL_A_MPPT_charger1$
+    U300A_MPPT_charger124
+NODENAME GND              $
+    C200       1  C201       1  C202       1  C203       1  C204       1  C205       1  C206       1  C207       1  C208       1  C209       1  C210       1  C211       1  C212       1  C213       1  C301A_MPPT_charger11  C301A_MPPT_charger21  C304A_MPPT_charger11  C304A_MPPT_charger21  C305A_MPPT_charger11  C305A_MPPT_charger21  C306A_MPPT_charger11  C306A_MPPT_charger21  C400A_Ideal Diode11  C400A_Ideal Diode21  C401A_Ideal Diode1K  C401A_Ideal Diode2K  C500A      1  C500B      1  C501A      1  C501B      1  C502A      2  C502B      2  C503A      2  C503B      2  C504A      2  C504B      2  C505A      1  C505B      1  J300A_MPPT_charger1N  J300A_MPPT_charger2N  J301A_MPPT_charger1N  J301A_MPPT_charger2N  J600       6  J600       9  J600      14  J600      20  J600      25  J600      30  J600      34  J600      39  J700       6  P200       5  P200       6  Q700       3  Q701       3  R202       2  R203       2  R210       2  R304A_MPPT_charger11  R304A_MPPT_charger21  R305A_MPPT_charger11  R305A_MPPT_charger21  R306A_MPPT_charger12  R306A_MPPT_charger22  R503A      2  R503B      2  R701       2  R703       2  R704       2  R705       2  R706       2  SW200      1  SW200      2  SW200      B  SW201      1  SW201      2  SW201      B  SW202      1  SW202      2  SW202      B  U200      12  U200      18  U200      63  U300A_MPPT_charger17  U300A_MPPT_charger18  U300A_MPPT_charger19  U300A_MPPT_charger110  U300A_MPPT_charger111  U300A_MPPT_charger112  U300A_MPPT_charger125  U300A_MPPT_charger27  U300A_MPPT_charger28  U300A_MPPT_charger29  U300A_MPPT_charger210  U300A_MPPT_charger211  U300A_MPPT_charger212  U300A_MPPT_charger225  U400A_Ideal Diode12  U400A_Ideal Diode13  U400A_Ideal Diode22  U400A_Ideal Diode23  U500A      2  U500A     15  U500B      2  U500B     15  Y200       2  Y200       4
+NODENAME G_OR_A_Ideal Diode2$
+    Q400A_Ideal Diode24  U400A_Ideal Diode25
+NODENAME G_OR_A_Ideal Diode1$
+    Q400A_Ideal Diode14  U400A_Ideal Diode15
+NODENAME G2               $
+    Q701       1  R702       1
+NODENAME G1               $
+    Q700       1  R700       1
+NODENAME FB_TPS_B         $
+    R501B      2  R503B      1  U500B      3
+NODENAME FB_TPS_A         $
+    R501A      2  R503A      1  U500A      3
+NODENAME FB_A_MPPT_charger2$
+    C303A_MPPT_charger21  R303A_MPPT_charger22  R306A_MPPT_charger21  U300A_MPPT_charger220
+NODENAME FB_A_MPPT_charger1$
+    C303A_MPPT_charger11  R303A_MPPT_charger12  R306A_MPPT_charger11  U300A_MPPT_charger120
+NODENAME EN_A_MPPT_charger2$
+    C301A_MPPT_charger22  J300A_MPPT_charger2P  R301A_MPPT_charger22  U300A_MPPT_charger24  U300A_MPPT_charger25  U300A_MPPT_charger26
+NODENAME EN_A_MPPT_charger1$
+    C301A_MPPT_charger12  J300A_MPPT_charger1P  R301A_MPPT_charger12  U300A_MPPT_charger14  U300A_MPPT_charger15  U300A_MPPT_charger16
+NODENAME EN 5V 3V3        $
+    J700       1  R502A      2  R502B      2  U500A     12  U500B     12
+NODENAME C_LED_USR        $
+    D700       2  R704       1
+NODENAME C_LED5V          $
+    D702       2  R706       1
+NODENAME C_LED3V3         $
+    D701       2  R705       1
+NODENAME BST_A_MPPT_charger2$
+    C300A_MPPT_charger22  U300A_MPPT_charger216
+NODENAME BST_A_MPPT_charger1$
+    C300A_MPPT_charger12  U300A_MPPT_charger116
+NODENAME BOOT0            $
+    R210       1  U200      60
+NODENAME BIAS_A_MPPT_charger2$
+    C302A_MPPT_charger22  C303A_MPPT_charger22  C304A_MPPT_charger22  C305A_MPPT_charger22  C400A_Ideal Diode22  J301A_MPPT_charger2P  Q400A_Ideal Diode25,6,7,8  R201       1  R300A_MPPT_charger21  R303A_MPPT_charger21  TP300A_MPPT_charger21  U300A_MPPT_charger218  U300A_MPPT_charger222  U400A_Ideal Diode21
+NODENAME BIAS_A_MPPT_charger1$
+    C302A_MPPT_charger12  C303A_MPPT_charger12  C304A_MPPT_charger12  C305A_MPPT_charger12  C400A_Ideal Diode12  J301A_MPPT_charger1P  Q400A_Ideal Diode15,6,7,8  R200       1  R300A_MPPT_charger11  R303A_MPPT_charger11  TP300A_MPPT_charger11  U300A_MPPT_charger118  U300A_MPPT_charger122  U400A_Ideal Diode11
+NODENAME 5V_STLINK        $
+    P200       9  P200      10
+NODENAME 5V               $
+    C502A      1  C503A      1  C504A      1  D702       1  J600       2  J600       4  R501A      1  TP701      1  U500A      4  U500A      5
+NODENAME 3.3VDDA          $
+    C206       2  L200       2  U200      13
+NODENAME 3.3V_STLINK      $
+    P200       7  P200       8
+NODENAME 3.3V             $
+    206        1  C200       2  C201       2  C202       2  C203       2  C204       2  C205       2  C502B      1  C503B      1  C504B      1  D701       1  J600      41  J600      42  L200       1  R204       1  R205       1  R501B      1  TP700      1  U200       1  U200      19  U200      32  U200      48  U200      64  U500B      4  U500B      5
+EOS
